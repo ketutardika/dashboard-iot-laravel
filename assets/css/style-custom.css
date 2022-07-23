@@ -1,0 +1,8 @@
+.sidebar .sidebar-header {
+    padding: 0px 25px 0px 10px;
+}
+
+.auth-page .auth-side-wrapper {
+    background-image: url(../images/aquaponic-bg.jpg);
+    background-position: right;
+}
